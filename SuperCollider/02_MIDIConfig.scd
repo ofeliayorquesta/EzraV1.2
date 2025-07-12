@@ -28,7 +28,8 @@ MIDIClient.init;
 
 // If you want to trigger patterns from a pedal or midi controller.
 
-/* Just evaluate. This code converts midi messages to osc messages (because tidal listens for osc messages). It sets a port, then finds your midi devices and defines functions for the type of messages it'll be receiving. */
+/* Just evaluate. This code converts midi messages to osc messages (because tidal listens for osc messages). 
+It sets a port, then finds your midi devices and defines functions for the type of messages it'll be receiving. */
 
 (
 var on, off, cc;
