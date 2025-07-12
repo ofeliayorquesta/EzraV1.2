@@ -1,0 +1,18 @@
+-- Orbit specifies the channel to which an audio signal goes.
+
+{-- orbit "0" is the default. Along with s.meter in SC it helps
+to track a signal quickly.
+
+Often, some sounds from other orbits sneak into a different orbit,
+specially orbit "0". If being serious about mixing, you can try
+sending a signal to a different orbit, eg. orbit "9".
+--}
+
+d1 $ stack [ s "bd ~ ~ ~ bd" # orbit "0",
+s "~ ~ sd:3 ~ ~" # orbit "1",
+s "hh hh hh hh" # orbit "2",
+s "~ cr ~ cr" # orbit "3" ]
+
+hush
+
+-- Go to piece: 10abril_orbits.tidal
