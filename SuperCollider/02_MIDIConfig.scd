@@ -3,7 +3,7 @@
 
 // SEND MIDI FROM TIDAL
 
-// If you want to play tidalcycles patterns using sounds from a DAW.
+// If you want to play tidalcycles patterns using sounds from a DAW or synth.
 
 
 (
