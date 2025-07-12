@@ -8,8 +8,10 @@ Code for the live sound of Ezra V1.2
 There might be occasions where you only want to use samples in tidal, and PART 2 may not be needed.
 
 QUICK WAY is for when you have an urge to live code as plain as possible. 
-STEREO is a fancier way of doing the quick way. Its just specifying things explicitly, rather than assuming your default settings. Might serve as an alternative code for debugging. 
-MULTICHANNEL is for when you want to send separate signals to a DAW. 
+
+STEREO is a fancier way of doing the quick way. It specifies things explicitly, rather than assumes your default settings. Might serve as an alternative code for debugging. 
+
+MULTICHANNEL is for when you want to send separate signals to a DAW for mixing. 
 
 ### PART 2. CONFIGURE MIDI
 
