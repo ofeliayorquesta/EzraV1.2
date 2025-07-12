@@ -23,6 +23,15 @@ When you want to play tidalcycles patterns using sounds from a DAW (or synth).
 
 When you want to trigger patterns from a pedal (or midi controller).
 
+### PART 3. CONFIGURE GLOBAL CLOCK AND LOCAL CLOCKS (BPM & CPS)
+
+-- GLOBAL CLOCK 
+
+For when you seek to sync tidalcycles and a DAW, (and a synth, and maybe even supercollider) into a same pulse. 
+
+-- LOCAL CLOCKS
+
+Usually, the tidalcycles local clock in Cycles Per Second dictates what the global clock is, but your DAW might specify Beats Per Minute only. There are also some tidalcycles patterns which use a local cps, but also, different versions in tidalcycles have different tempo notations. 
 
 ## Examples 
 
