@@ -5,7 +5,7 @@ Code for the live sound of Ezra V1.2
 
 ### PART 1. START TIDALCYCLES ( 01_tidal_init.scd )
 
-There might be occasions where you only want to use samples in tidal, and PART 2 may not be needed.
+There might be occasions where you will only want to use samples in tidal, and PART 2 may not be needed.
 
 QUICK WAY is for when you have an urge to live code as plain as possible. 
 
