@@ -3,7 +3,7 @@ Code for the live sound of Ezra V1.2
 
 ## Start TidalCycles
 
-### PART 1. START TIDALCYCLES 
+### PART 1. START TIDALCYCLES ( 01_tidal_init.scd )
 
 There might be occasions where you only want to use samples in tidal, and PART 2 may not be needed.
 
@@ -13,7 +13,7 @@ STEREO is a fancier way of doing the quick way. It specifies things explicitly, 
 
 MULTICHANNEL is for when you want to send separate signals to a DAW for mixing. 
 
-### PART 2. CONFIGURE MIDI
+### PART 2. CONFIGURE MIDI ( 02_MIDIConfig.scd )
 
 -- SEND MIDI FROM TIDAL
 
