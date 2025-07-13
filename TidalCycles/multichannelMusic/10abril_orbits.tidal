@@ -1,4 +1,4 @@
-setcps(90/60) -- try setcps(60/180). It equals 120 BPM in DAW.
+setcps(90/60) -- try setcps(90/180). It equals 120 BPM in DAW.
 
 {-- First, load the sounds the piece uses:
 bd:9, ld:1, ho
