@@ -1,4 +1,4 @@
-setcps(90/60) -- try setcps(60/180). It equals 120 BPM in DAW.
+setcps(90/60) -- try setcps(90/180). It equals 120 BPM in DAW.
 
 -- STEREO version of 10abril
 
@@ -78,3 +78,4 @@ d1 $ every 8 (const $ every 5 (within (0.25, 0.75) (rev . slow 2 . stut 16 0.4 0
 hush
 
 -- See 10abril_orbits.tidal for code explanation.
+-- now try setcps(60/180)
