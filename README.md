@@ -44,7 +44,7 @@ If you want to trigger tidalcycles patterns from a MIDI pedal, start with capply
 
 MULTICHANNEL
 
-First go to multichannel.tidal to test the code. Then go to 10abril_orbits.tidal to see a piece converted to multichannel via the function "orbit". You only need to send each sound to the orbit that you want, and it is a simple addon of code once you have a stereo file. 
+First go to multichannel.tidal to test the code. Then go to 10abril_orbits.tidal to see a piece converted to multichannel via the function "orbit". You only need to send each sound to the orbit that you want, and it is a simple addon of code once you already have a stereo file. 
 
 Multichannel can be tricky and even annoying as you'll probably need extra ports and tools like jack audio, blackhole or loopback, or even multichannel hardware. 
 
