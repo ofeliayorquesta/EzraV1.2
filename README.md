@@ -40,7 +40,7 @@ STEREO
 10abril.tidal is the piece to start with. 
 capply.tidal is the same piece but set up for use with MIDI pedal. 
 
-If you want to trigger tidalcycles patterns from a MIDI pedal, start with capply.tidal . A possible case is playing guitar while acompanying yourself with patterns which can be quickly updated on the fly. Plus, cc's are not exclusive, so you can use the same buttons to control something else at the same time.      
+If you want to trigger tidalcycles patterns from a MIDI pedal, start with capply.tidal . A possible use case is playing guitar while acompanying yourself with patterns which can be quickly updated on the fly. Plus, cc's are not exclusive, so you can use the same buttons to control something else at the same time.      
 
 MULTICHANNEL
 
