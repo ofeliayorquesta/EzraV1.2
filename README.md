@@ -48,4 +48,8 @@ First go to multichannel.tidal to test the code. Then go to 10abril_orbits.tidal
 
 Multichannel can be tricky and even annoying as you'll probably need extra ports and tools like jack audio, blackhole or loopback, or even multichannel hardware. 
 
+Note: 
+
+Ezra V1.2 is the quick know how into Ofelia's preferred tidalcycles set up and it by no means substitutes the tidalcycles.org documentation neither it covers everything about TidalCycles live coding engine.  
+
 
