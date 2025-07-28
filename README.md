@@ -38,12 +38,14 @@ Usually, the tidalcycles local clock in Cycles Per Second dictates what the glob
 STEREO
 
 10abril.tidal is the piece to start with. 
-capply.tidal is the same piece but set up for use with MIDI pedal. If you want to trigger tidalcycles patterns from a MIDI pedal, start here. My use case is playing guitar while I acompany myself with patterns which can be quickly updated on the fly. Plus, cc's are not exclusive, so you can use the same buttons to control something else at the same time.      
+capply.tidal is the same piece but set up for use with MIDI pedal. 
+
+If you want to trigger tidalcycles patterns from a MIDI pedal, start with capply.tidal . A possible case is playing guitar while acompanying yourself with patterns which can be quickly updated on the fly. Plus, cc's are not exclusive, so you can use the same buttons to control something else at the same time.      
 
 MULTICHANNEL
 
-First go to multichannel.tidal to test the code. Then go to 10abril_orbits.tidal to see a piece that was converted to multichannel via the function "orbit". You only need to send each sound to the orbit that you want, and it is a simple addon of code once you have a stereo file. 
+First go to multichannel.tidal to test the code. Then go to 10abril_orbits.tidal to see a piece converted to multichannel via the function "orbit". You only need to send each sound to the orbit that you want, and it is a simple addon of code once you have a stereo file. 
 
-Multichannel can be tricky and even annoying as you'll probably need extra ports and tools like jacck audio, blackhole or loopback, or multichannel hardware. 
+Multichannel can be tricky and even annoying as you'll probably need extra ports and tools like jacck audio, blackhole or loopback, or even multichannel hardware. 
 
 
