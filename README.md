@@ -54,4 +54,4 @@ Ezra V1.2 is the quick know how into Ofelia's preferred tidalcycles set up and i
 
 ## Scores
 
-In the Scores folder you'll find pdf files of music score templates so to follow along a guitar riff with live coding. Download the respective audio files and upload them as samples in tidalcycles to compose over. Or play the riffs on guitar, then sync tidal to your playing tempo, and then one can add effects both ways. 
+In the Scores folder you'll find pdf files of music score templates so to follow along a guitar riff with live coding. Download the respective audio files and upload them as samples in tidalcycles to compose over. Or play the riffs on guitar, then sync tidal to your playing tempo, and then you can add effects both ways. 
